@@ -80,7 +80,8 @@ brew install nmap figlet
 
 โคลนโปรเจกต์ลงเครื่อง:
 
-git clone https://github.com/YOUR_USERNAME/pholx-cyber-suite.git
+git clone https://github.com/Kxngdev0/-PHOLX-Cyber-Security-Master-Suite.git
+
 cd pholx-cyber-suite
 
 
